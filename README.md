@@ -1,2 +1,2 @@
 # cherry-2api-python
-纯 Python API 代理、逆向工程 HMAC-SHA256 签名算法、非无头浏览器实现 (Pure Script)、动态时间戳与自定义载荷结构、无需 Cookie、支持流式响应 (Streaming)
+和谐就开源放代码，大家可以通知我，仓库拿软件
